@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Radio Button</string>
+    <string name="textView">Do you like Android Programming?</string>
+    <string name="radio1">Yes</string>
+    <string name="radio2">No</string>
+    <string name="radio3">Maybe</string>
+</resources>
